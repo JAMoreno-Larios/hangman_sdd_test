@@ -1,6 +1,7 @@
 # Python Hangman CLI Game
 
-This is a playground directory to attempt to generate a simple project using `Ollama` and `OpenCode
+This is a playground directory to attempt to generate a simple project using `OpenCode` and Specification-driven development.
+Code was generated using OpenCode's Big Pickle model.
 
 ## Specifications
 
