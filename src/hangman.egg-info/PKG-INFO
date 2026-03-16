@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: hangman
+Version: 0.1.0
+Summary: A Python Hangman CLI game
+Requires-Python: >=3.10
+Requires-Dist: nltk>=3.9
+Requires-Dist: pytest>=9.0
+Requires-Dist: ruff>=0.15
