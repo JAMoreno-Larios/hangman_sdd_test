@@ -27,3 +27,4 @@ The hangman game has the following requirements:
 - Use `Python` as programming language.
 - Use `NLTK` to generate the word list.
 - Use `ruff` for code formatting and linting following `PEP8` practices.
+- Use `pytest` for unit testing.
